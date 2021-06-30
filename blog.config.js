@@ -1,9 +1,9 @@
 const BLOG = {
-  title: '大风工作室博客',
+  title: '大风工作室',
   author: 'dafengstudio',
   email: 'dafengstudio@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: '致力于商业研究和技术研究的工作室.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
